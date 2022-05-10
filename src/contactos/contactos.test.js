@@ -33,7 +33,7 @@ describe('contactos', () => {
 			expect(actual).toEqual(esperado);
 		});
 
-		test('Debe mostrar un error si no contiene los props {nombre, email}', () => {
+		test('Debe mostrar un error si no contiene los props {nombre, email, id}', () => {
 			const contacto = {
 				nombre: 'Steven',
 				email: 's@gmail.com'
