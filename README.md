@@ -7,7 +7,7 @@ Clone o descargue el proyecto
 ```bash
 git clone https://github.com/IsabelaCeballos/DemopruebaFuncional.git
 ```
-Desgargue Node JS y abra el proyecto en un IDE e instale las dependencias del proyecto
+Descargue Node JS y abra el proyecto en un IDE e instale las dependencias del proyecto
 ```bash
 npm install
 ```
